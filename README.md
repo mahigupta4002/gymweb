@@ -1,4 +1,5 @@
-# gymweb
+# gymweb 
+link to access the website : https://mahigupta4002.github.io/gymweb/
 
 A simple static website for a gym / fitness business built with HTML, CSS, and JavaScript.
 
